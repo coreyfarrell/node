@@ -164,6 +164,7 @@
       'lib/internal/modules/cjs/loader.js',
       'lib/internal/modules/esm/loader.js',
       'lib/internal/modules/esm/create_dynamic_module.js',
+      'lib/internal/modules/esm/default_loader_worker.js',
       'lib/internal/modules/esm/get_format.js',
       'lib/internal/modules/esm/get_source.js',
       'lib/internal/modules/esm/ipc_types.js',
